@@ -30,15 +30,6 @@ If the input is invalid or not greater than zero, an error message is displayed,
 - **Dynamic pattern creation**: The triangles are drawn based on user input.
 - **Error handling**: Provides clear feedback for invalid inputs.
 
-### Example of Output for `heith = 5`
-
-#### Ascending Triangle:
-
-
-#### Descending Triangle:
-
-
-## Features of the Program
 
 ### Step-by-Step Explanation:
 
